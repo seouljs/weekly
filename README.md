@@ -1,8 +1,6 @@
-# Weekly
+<img src="https://github.com/seouljs/weekly/raw/master/media/logo.png" />
 
-<p style="text-align:center;">
-  <img src="https://github.com/seouljs/weekly/raw/master/media/logo.png" width="50%" />
-</p>
+# Weekly
 
 Seoul.js Weekly
 
